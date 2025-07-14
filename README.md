@@ -19,3 +19,4 @@ This project predicts whether a passenger survived the Titanic disaster using ma
 
 ```bash
 python titanic_model.py
+ji
